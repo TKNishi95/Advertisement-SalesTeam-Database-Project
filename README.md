@@ -1,5 +1,8 @@
 # Advertisement Sales Team Database Project
 
+**Contributors (Name and Github handle): Takumi Nishi (TKNishi95), Lora Shih (LoraShih), Lenny Lin  
+**
+
 The project aimed to create a database for advertising companies to track and manage the performance of their sales teams effectively. The premise of this project was inspired by a real-world consulting case experienced by one of the collaborators, in which a large advertising firm faced severe financial challenges and a loss of market share to its competitors. The main source of the issue was attributed to the firm's lack of a centralized monitoring system that could closely track the progress of their sales group's performance, hindering decision-makers from making effective strategic decisions.
 
 
@@ -18,5 +21,3 @@ Our database allows the query of the following KPIs that are considered essentia
 - Payment Collection: Payment status by client on existing contracts
 - Client Satisfaction: Client satisfaction with contracts
 
-
-Contributors (Name and Github handle): Takumi Nishi (TKNishi95), Lora Shih (LoraShih), Yu-Liang Lin  
