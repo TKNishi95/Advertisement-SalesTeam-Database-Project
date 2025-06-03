@@ -20,6 +20,6 @@ Our database allows the query of the following KPIs that are considered essentia
 
 
 Contributors (Name and Github handle):
-Takumi Nishi (TKNishi95)
-Lora Shih (LoraShih)
-Yu-Liang/Lenny Lin  
+\Takumi Nishi (TKNishi95)
+\Lora Shih (LoraShih)
+\Yu-Liang/Lenny Lin  
