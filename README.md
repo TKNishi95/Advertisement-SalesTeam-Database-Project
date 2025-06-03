@@ -19,7 +19,4 @@ Our database allows the query of the following KPIs that are considered essentia
 - Client Satisfaction: Client satisfaction with contracts
 
 
-Contributors (Name and Github handle):
-\Takumi Nishi (TKNishi95)
-\Lora Shih (LoraShih)
-\Yu-Liang/Lenny Lin  
+Contributors (Name and Github handle): Takumi Nishi (TKNishi95), Lora Shih (LoraShih), Yu-Liang Lin  
