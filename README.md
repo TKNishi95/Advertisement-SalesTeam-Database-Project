@@ -1,10 +1,15 @@
 # Advertisement Sales Team Database Project
 
-Contributors (Name and Github handle): Takumi Nishi (TKNishi95), Lora Shih (LoraShih), Lenny Lin (lennylin1998)
+## Contributors (Name and Github handle): 
+- Takumi Nishi (TKNishi95)
+- Lora Shih (LoraShih)
+- Lenny Lin (lennylin1998)
 
+## Abstract
 
 The project aimed to create a database for advertising companies to track and manage the performance of their sales teams effectively. The premise of this project was inspired by a real-world consulting case experienced by one of the collaborators, in which a large advertising firm faced severe financial challenges and a loss of market share to its competitors. The main source of the issue was attributed to the firm's lack of a centralized monitoring system that could closely track the progress of their sales group's performance, hindering decision-makers from making effective strategic decisions.
 
+## Functionalities
 
 As a potential solution, we propose a sales team performance database management system (using SQL) with the following characteristics: 
 - Comprehensive Data Management: Tracking detailed sales activity (i.e. Client Meeting, Contract, Payment, etc)
